@@ -4,7 +4,7 @@
 
 💻 **Key Skills:**   
 - Data Analysis: Excel, Power BI, SQL, MySQL
-- Web Development: HTML, CSS, JavaScript, PHP
+- Web Development: HTML, CSS, JavaScript, PHP, Sql
 - Tools &amp; Platforms: MySQL, Git, GitHub, Power BI, VS Code
   
 🔨 **Current Projects:**
