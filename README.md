@@ -5,6 +5,7 @@
 - Data Analysis: Excel, Power BI, SQL, MySQL
 - Web Development: HTML, CSS, JavaScript, PHP
 - Tools &amp; Platforms: MySQL, Git, GitHub, Power BI, VS Code
+  
 🔨 **Current Projects:**
 -Developing data-driven web applications and enhancing my data visualization skills.
 -Exploring advanced SQL techniques and automation with Power BI.
