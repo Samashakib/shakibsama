@@ -9,7 +9,7 @@
   
 🔨 **Current Projects:**
 -Developing data-driven web applications and enhancing my data visualization skills.
--Exploring advanced SQL techniques and automation with Power BI.
+and Exploring advanced SQL techniques and automation with Power BI.
 
 🌱 **Currently Learning:**
 -Advanced SQL for data manipulation
